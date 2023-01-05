@@ -1,2 +1,3 @@
-sudo apt-get update && sudo apt-get install -y hugo make curl build-essential
+sudo apt-get update
+sudo apt-get install -y hugo make
 hugo new site dist
