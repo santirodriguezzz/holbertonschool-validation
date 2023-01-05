@@ -1,20 +1,9 @@
-# Automate 
-
----
-
-## Description
-
-
-    [gohugo.io](https://gohugo.io/getting-started/quick-start/)
-
-
---
-
+# Module 1: DevOps: automate everything
+# holbertonschool-validation
 ## Prerequisites
-
-    
-
-
---
-
-## Author
+Go-Hugo, Make, Hugo, GNU
+## Lifecycle
+*post
+* help
+* build 
+* clean
